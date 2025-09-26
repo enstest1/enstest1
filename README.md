@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/pelpa-metallic-title.svg" width="720" alt="PELPA" />
+</p>
 
-<!--
-**enstest1/enstest1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="assets/puppeteer-banner.png" alt="PELPA — CRT Banner" style="max-width:100%; border-radius:12px; box-shadow:0 6px 30px rgba(0,0,0,.35);" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank" rel="nofollow noopener">
+    <img src="assets/twitter-button.svg" alt="Twitter" height="48" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=gray" alt="Profile views"/>
+</p>
