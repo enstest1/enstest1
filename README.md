@@ -1,4 +1,3 @@
-<!-- Base banner -->
 <p align="center">
   <img src="assets/puppeteer-banner.png" alt="PELPA — CRT Banner" style="max-width:100%; border-radius:12px; box-shadow:0 6px 30px rgba(0,0,0,.35);" />
 </p>
