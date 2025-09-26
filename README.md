@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="assets/pelpa-metallic-title.svg" width="720" alt="PELPA" />
-</p>
-
+<!-- Base banner -->
 <p align="center">
   <img src="assets/puppeteer-banner.png" alt="PELPA — CRT Banner" style="max-width:100%; border-radius:12px; box-shadow:0 6px 30px rgba(0,0,0,.35);" />
 </p>
-
-<p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE" target="_blank" rel="nofollow noopener">
+<!-- Twitter directly below -->
+<p align="center" style="margin-top: 6px;">
+  <a href="https://twitter.com/pelpa333" target="_blank" rel="nofollow noopener">
     <img src="assets/twitter-button.svg" alt="Twitter" height="48" />
   </a>
 </p>
