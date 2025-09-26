@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="48" viewBox="0 0 168 48" role="img" aria-label="Twitter">
+  <defs>
+    <linearGradient id="btnGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1da1f2"/>
+      <stop offset="100%" stop-color="#0b7bc1"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="-100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0)"/>
+      <stop offset="50%" stop-color="rgba(255,255,255,0.65)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
+      <animate attributeName="x1" values="-100%;100%" dur="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0%;200%" dur="2.8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="166" height="46" rx="12" fill="url(#btnGrad)" stroke="#0a5f8f" stroke-width="2"/>
+  <rect x="1" y="1" width="166" height="46" rx="12" fill="url(#shine)" opacity=".35"/>
+  <g transform="translate(16,12) scale(1.0)"><path d="M19.8 0 11.7 9.6 3.7 0H0l10.2 12.1L0 24h3.7l8.1-9.6L19.8 24h3.7L13.3 11.9 23.5 0h-3.7z" fill="#fff"/></g>
+  <text x="62" y="31" font-family="Inter, system-ui" font-size="17" font-weight="800" fill="#fff">TWITTER</text>
+</svg>
